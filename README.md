@@ -1,6 +1,6 @@
 
 
-### Human Activity Recognition and Analysis
+# Human Activity Recognition and Analysis
 
 ## Overview
 
@@ -78,3 +78,8 @@ To run the analysis on this dataset, you will need:
 - The script assumes specific column names and formats in the dataset.
 
 Users can utilize this script to gain insights into the temporal patterns, statistical properties, and predictive modeling aspects of the activity recognition dataset. Adjustments can be made based on specific dataset characteristics and analysis requirements.
+
+
+
+
+
